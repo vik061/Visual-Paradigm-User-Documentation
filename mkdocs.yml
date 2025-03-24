@@ -2,3 +2,21 @@ site_name: Visual Paradigm User Documentation
 
 theme:
   name: material
+  palette:
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      primary: red
+      scheme: default
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+        
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      primary: red
+      scheme: slate
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
