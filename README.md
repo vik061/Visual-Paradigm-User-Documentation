@@ -26,11 +26,10 @@ This documentation used Material for MkDocs as our MkDoc theme to provide a prof
 
 ### Using Markdown
 
-This documentation was written in Markdown language.
-
+We used Material for MkDocs as our theme to ensure a professional and visually appealing documentation layout. 
 ### Using VS Code
 
-We used VS Code to write the Markdown files that were pushed to our GitHub repository.
+We used VS Code to write and edit the Markdown files before pushing them to our GitHub repository.
 
 ## How we improved readability
 
@@ -40,6 +39,8 @@ We used MkDocs’ admonitions to emphasize specific messages that users would fi
 
 ## Conclusion
 
-[work in progress]
+Creating this user documentation gave us a deeper understanding of Visual Paradigm Online and the importance of well-structured technical writing. Throughout this process, we learned valuable skills.
+
+We hope this guide provides useful insights for those looking to use Visual Paradigm Online for their diagramming needs. 
 
 This document was built on [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/).
