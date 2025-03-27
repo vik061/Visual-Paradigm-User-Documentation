@@ -35,6 +35,8 @@ We used VS Code to write and edit the Markdown files before pushing them to our 
 
 To improve the readability of this documentation, we employed different forms of media to enhance our instructions. Some of the media we employed in this documentation include screenshots with annotations and gifs to visually demonstrate the flow of our instructions. 
 
+![Drag Shapes and connect them](docs/overview_page_gif.gif)
+
 We used MkDocs’ admonitions to emphasize specific messages that users would find beneficial as they read through our instructions.
 
 ## Conclusion
