@@ -3,7 +3,6 @@ site_name: Visual Paradigm User Documentation
 theme:
   name: material
   palette:
-
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
       primary: red
@@ -11,7 +10,6 @@ theme:
       toggle:
         icon: material/weather-sunny
         name: Switch to dark mode
-        
 
     # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
@@ -25,3 +23,11 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+
+nav:
+  - Introduction: index.md
+  - Creating new diagram: Creating_new_diagram.md
+  - Creating shapes and lines: Creating_shapes_and_lines.md
+  - Downloading PDF of Diagram: Downloading_PDF_of_diagram.md
+  - Troubleshooting: Troubleshooting.md
+  - Glossary: Glossary.md
