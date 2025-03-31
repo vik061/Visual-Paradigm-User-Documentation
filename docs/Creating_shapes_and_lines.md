@@ -6,23 +6,23 @@ In this section, we will guide you through the process of adding shapes and line
 
 1. **Click** on the "Shapes" icon located on the left toolbar.
 
-   ![Shapes icon](./images/shapes-icon.png)
+    ![Shapes icon](./images/shapes-icon.png)
 
-   This icon opens a menu containing various shapes that you can use in your diagram, allowing for a diverse range of visual elements.
+    This icon opens a menu containing various shapes that you can use in your diagram, allowing for a diverse range of visual elements.
 
 2. **Select** a shape from the menu.
  
     !!! tip
         Explore different shapes to find the ones that best fit your diagram needs. Common shapes include rectangles for processes, circles for events, and arrows for directional flow, each serving distinct purposes in your diagram.
 
-   ![Select shape](./images/select-shape.png)
+    ![Select shape](./images/select-shape.png)
 
 3. **Drag** the selected shape onto the canvas.
 
     !!! info
         You can reposition the shape by clicking and dragging it to your desired location on the canvas. This flexibility allows you to arrange your diagram intuitively, ensuring a logical flow of information.
 
-   ![Drag shape](./images/drag-shape.gif)
+    ![Drag shape](./images/drag-shape.gif)
 
 4. **Customize** the shape using the menu at the top to change its color, size, and style.
 
@@ -33,30 +33,30 @@ In this section, we will guide you through the process of adding shapes and line
 
 1. **Click** on the "Line" tool from the left toolbar.
 
-   ![Line tool](./images/line-tool.png)
+    ![Line tool](./images/line-tool.png)
 
-   This tool allows you to create connections between different shapes, illustrating relationships or flows in your diagram, which is essential for conveying complex information clearly.
+    This tool allows you to create connections between different shapes, illustrating relationships or flows in your diagram, which is essential for conveying complex information clearly.
 
 2. **Select** a type of line from the options that appear.
 
-   ![Line type](./images/line-type.png)
+    ![Line type](./images/line-type.png)
 
-   You can choose from various line styles.
+    You can choose from various line styles.
 
 3. **Option 1**: Click and drag from the "Line" tool to manually create a connection between two shapes.
 
-   - **Drag** the line from the toolbar and position it between the two shapes.
-   - **Adjust** the endpoints of the line by dragging them to connect to the desired shapes.
+    - **Drag** the line from the toolbar and position it between the two shapes.
+    - **Adjust** the endpoints of the line by dragging them to connect to the desired shapes.
 
-    !!! success
-        A line will appear connecting the two shapes, indicating a successful connection. This method is ideal for quickly linking shapes together, enhancing the flow of your diagram.
+        !!! success
+            A line will appear connecting the two shapes, indicating a successful connection. This method is ideal for quickly linking shapes together, enhancing the flow of your diagram.
 
 4. **Option 2**: Click on an existing shape on the canvas. A set of arrows will automatically appear around the shape. Click on these arrows to easily connect shapes.
 
     !!! info
         This method provides a quick way to establish connections without needing to select the line tool each time, streamlining your workflow. Simply click on the arrows to create connections between shapes effortlessly.
 
-   ![Connect shapes](./images/connect-shapes.gif)
+    ![Connect shapes](./images/connect-shapes.gif)
 
 
 
