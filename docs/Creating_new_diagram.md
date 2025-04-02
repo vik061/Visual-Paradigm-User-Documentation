@@ -1,6 +1,6 @@
 ## Overview
 
-Whether you would like to create or not create an account on Visual Paradigm, this section will show the steps to create a new diagram for free for both cases.
+In this section, we will guide you through the process of creating a new diagram on Visual Paradigm Online with options to create or not create an account. Both options have the ability to save diagrams on Visual Paradigm Online, though creating an account allows you to work on your diagrams across different devices. We suggest creating an account to safely store your diagrams without the risk of losing unsaved diagrams.
 
 1. **Go** to the Visual Paradigm Online website.
 
