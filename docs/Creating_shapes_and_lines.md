@@ -43,7 +43,7 @@ In this section, we will guide you through the process of adding shapes and line
 
     You can choose from various line styles.
 
-3. **Option 1**: Click and drag from the "Line" tool to manually create a connection between two shapes.
+3. **Option 1**: **Click** and **drag** from the "Line" tool to manually create a connection between two shapes.
 
     - **Drag** the line from the toolbar and position it between the two shapes.
     - **Adjust** the endpoints of the line by dragging them to connect to the desired shapes.
@@ -51,10 +51,10 @@ In this section, we will guide you through the process of adding shapes and line
         !!! success
             A line will appear connecting the two shapes, indicating a successful connection. This method is ideal for quickly linking shapes together, enhancing the flow of your diagram.
 
-4. **Option 2**: Click on an existing shape on the canvas. A set of arrows will automatically appear around the shape. Click on these arrows to easily connect shapes.
+4. **Option 2**: **Click** on an existing shape on the canvas. A set of arrows will automatically appear around the shape. **Click** on these arrows to easily connect shapes.
 
     !!! info
-        This method provides a quick way to establish connections without needing to select the line tool each time, streamlining your workflow. Simply click on the arrows to create connections between shapes effortlessly.
+        This method provides a quick way to establish connections without needing to select the line tool each time, streamlining your workflow. Simply **click** on the arrows to create connections between shapes effortlessly.
 
     ![Connect shapes](./images/connect-shapes.gif)
 
@@ -63,7 +63,7 @@ In this section, we will guide you through the process of adding shapes and line
 
 5. **Customize** the line using the menu at the top to change its appearance.
 
-    !!! note
+    !!! tip
         Use the top menu to adjust the style, thickness, and direction of your lines. Customizing lines can enhance the clarity of your diagram and help convey the intended message more effectively, ensuring that your audience understands the relationships between elements.
 
-Now that you have added shapes and lines, you can proceed to customize them further or continue building your diagram. For instructions on how to save your work, including [downloading a PDF of your diagram](https://vik061.github.io/Visual-Paradigm-User-Documentation/Downloading_PDF_of_diagram/).
+Now that you have added shapes and lines, you can proceed to customize them further or continue building your diagram. For instructions on how to save your work, this guide will show you the steps to [download a PDF of your diagram](https://vik061.github.io/Visual-Paradigm-User-Documentation/Downloading_PDF_of_diagram/).

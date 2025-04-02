@@ -31,13 +31,13 @@ In this section, we will guide you through the process of downloading your compl
 
       ![Download PDF](./images/downloading.gif)
 
-5. **Verify the Download**: Once the download is complete, locate the PDF file on your device and open it to ensure everything appears correctly.
+5. **Verify the Download**: Once the download is complete, **locate** the PDF file on your device and open it to ensure everything appears correctly.
 
 
    ![Verify download](./images/verify-download.png)
 
 
-!!! note
+!!! info
     If you encounter any issues with the download or the appearance of the PDF, double-check your export settings and try the process again.
 
-By following these steps, you can easily save a professional-looking PDF copy of your diagram. This feature is essential for sharing your work with others or for including it in reports and presentations.
+By following these steps, you can easily save a professional-looking PDF copy of your diagram. This feature is essential for sharing your work with others or including it in reports and presentations.
