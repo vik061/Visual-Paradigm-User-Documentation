@@ -16,8 +16,9 @@ In this section, we will guide you through the process of creating a new diagram
 
     Upon clicking the button, you will be redirectd to the Home page inside Visual Paradigm Online.
 
-    If you want to create an account on Visual Paradigm Online, follow the steps from Option 1 *in addition* to the steps in Option 2.
-    If you do not want to create an account on Visual Paradigm Online, follow the steps starting from Option 2.
+    !!! info
+        If you want to create an account on Visual Paradigm Online, follow the steps from Option 1 *in addition* to the steps in Option 2.
+        If you do not want to create an account on Visual Paradigm Online, follow the steps starting from Option 2.
 
 ## Option 1: With creating an account
 
@@ -26,50 +27,52 @@ In this section, we will guide you through the process of creating a new diagram
 2. **Click** on "Sign Up" from the dropdown menu.
 
     !!! info
-        If you already have an account on Visual Paradigm Online, you may click on "Log in" and follow the steps provided on the website.
+        If you already have an account on Visual Paradigm Online, you may click on "Log in" and follow the steps provided by Visual Paradigm Online.
 
     ![Click profile icon and sign up](./images/click-profile-icon-sign-up.gif)
 
 3. **Enter** your email address, preferably your post-secondary institution's email address if you are currently enrolled in a post-secondary institution.
 
-    Keep the default choice for the Edition, which should have the blue circle next to "Use the Free Edition" option. 
+4. **Keep** the default choice for the Edition, which should have the blue circle next to "Use the Free Edition" option. 
 
     !!! warning
         If you see the blue circle next to the "Enjoy 30-Day trial of the Combo Edition", **choose** the "Use the Free Edition" option.
 
     ![Click profile icon and sign up](./images/enter-email-address.png)
 
-4. **Click** on the "Sign Up" button.
+5. **Click** on the "Sign Up" button.
 
-    !!! info
-        You may have to complete a simple human verification test to prove Visual Paradigm Online that you are a human user.
+    !!! note
+        You may have to complete a simple human verification test to prove that you are a human user.
 
     !!! success
         You will be redirected to this page prompting you to **check** your email account and **click** on the link from Visual Paradigm Online.
 
         ![Redirect email verification prompt](./images/redirect-email-verification-prompt.png)
 
-5. **Go** to your email account that you entered on Visual Paradigm and **click** on the "Activate your Visual Paradigm online account" link.
+6. **Go** to your email account that you entered on Visual Paradigm Online.
+
+7. **Click** on the "Activate your Visual Paradigm online account" link.
 
     ![Email link activate account](./images/email-link-activate-account.png)
 
-    You will be redirected to a new page after clicking the email's link, which is shown in Step 6.
+    You will be redirected to a new page after clicking the email's link, which is shown in Step 8.
 
-6. **Enter** your password to activate your Visual Paradigm account.
+8. **Enter** your password to activate your Visual Paradigm account.
 
     ![Enter password activate account](./images/enter-password-to-activate-account.png)
 
     !!! note
         Make sure to remember the password that you set for your Visual Paradigm Online account!
 
-7. **Click** on the Confirm button.
+9. **Click** on the Confirm button.
 
     !!! success
         You will see this page that confirms your account has been activated.
 
         ![Account activated](./images/account-activated.png)
 
-8. **Click** on the "log in to Visual Paradigm" link.
+10. **Click** on the "log in to Visual Paradigm" link.
 
     You will be redirected to the login page and be asked to **enter** your email address and password.
 
@@ -89,19 +92,19 @@ In this section, we will guide you through the process of creating a new diagram
 
     !!! success 
 
-        A dropdown menu will appear below the + CREATE button
+        A dropdown menu will appear below the + CREATE button.
 
         ![Dropdown list](./images/create-dropdown-list.png)
 
 3. **Click** on a diagram from the dropdown menu.
 
     !!! note
-        You can use the search bar and find a specific diagram to create or scroll through the dropdown menu to explore all available diagrams.
+        You can use the search bar and **find** a specific diagram to create or **scroll** through the dropdown menu to explore all available diagrams.
 
     !!! example
-        In this guide, we will click on Entity Relationship Diagram.
+        In this guide, we will **click** on Entity Relationship Diagram.
 
-    After clicking on a diagram from the dropdown menu, you will be redirected to a blank template.
+    After clicking on a diagram from the dropdown menu, you will be redirected to a blank template as shown below.
 
     ![Blank template Untitled](./images/blank-template-untitled.png)
 

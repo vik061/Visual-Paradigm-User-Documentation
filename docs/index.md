@@ -19,7 +19,7 @@ Users who have little to no experience with Visual Paradigm Online are the targe
 3. Export and download your diagrams as PDFs for easy sharing and submission.
 
 ## Prerequisites
-To follow this guide, you will need:
+To follow this guide, you will need the following resources and knowledge level:
 
 - A computer with an internet browser (Google Chrome, Firefox, or Edge recommended)
 - A stable internet connection
