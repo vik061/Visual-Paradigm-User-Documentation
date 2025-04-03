@@ -1,14 +1,14 @@
 # Overview of Visual Paradigm Documentation
 
-Welcome to the user documentation for the online version of Visual Paradigm! This documentation will cover instructions with detailed steps on some of the popular Visual Paradigm functions that are useful for creating neat and professional diagrams. In this document, the [*online version* of Visual Paradigm](https://online.visual-paradigm.com/) is used, not be confused with the [Visual Paradigm program](https://www.visual-paradigm.com/).
+Welcome to the user documentation for Visual Paradigm Online! This documentation will cover instructions with detailed steps on some of the popular Visual Paradigm functions that are useful for creating neat and professional diagrams. In this document, the [*online version* of Visual Paradigm](https://online.visual-paradigm.com/) is used, not be confused with the [Visual Paradigm program](https://www.visual-paradigm.com/).
 
 
 The goal of the user documentation for Visual Paradigm is to help anyone interested in making a diagram online with an option to not register for an account, as well as not downloading any programs to their device. Our target audience also includes CST students who need to draw diagrams for certain assignments, such as creating Entity Relationship Diagrams for Business Analysis and System Design. 
 
 The topics for this document consist of the following:
-- Creating a new diagram on Visual Paradigm
-- Creating a diagram with shapes and connected lines
-- Downloading a PDF copy of your diagram to your device
+- Creating a new diagram (with or without creating an account)
+- Creating a diagram with shapes and lines
+- Downloading a PDF copy of a diagram to your device
 
 ## How we planned and collaborated
 
@@ -27,6 +27,7 @@ This documentation used Material for MkDocs as our MkDoc theme to provide a prof
 ### Using Markdown
 
 We used Material for MkDocs as our theme to ensure a professional and visually appealing documentation layout. 
+
 ### Using VS Code
 
 We used VS Code to write and edit the Markdown files before pushing them to our GitHub repository.
@@ -41,7 +42,7 @@ We used MkDocs’ admonitions to emphasize specific messages that users would fi
 
 ## Conclusion
 
-Creating this user documentation gave us a deeper understanding of Visual Paradigm Online and the importance of well-structured technical writing. Throughout this process, we learned valuable skills.
+Creating this user documentation gave us a deeper understanding of Visual Paradigm Online and the importance of well-structured technical writing. Throughout this process, we learned how to communicate technical information, which in this case is instructions on using Visual Paradigm Online, to audiences who come from a variety of technical backgrounds.
 
 We hope this guide provides useful insights for those looking to use Visual Paradigm Online for their diagramming needs. 
 
