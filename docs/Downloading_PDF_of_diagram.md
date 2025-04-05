@@ -1,43 +1,43 @@
 ## Overview
 
-In this section, we will guide you through the process of downloading your completed diagram as a PDF in Visual Paradigm Online. This feature allows you to save a professional-looking copy of your work for sharing or printing.
+In this section, we will guide you through the process of downloading your completed diagram as a PDF in Visual Paradigm Online. This feature allows you to save a professional looking copy of your work for sharing or printing.
 
 ## Steps to Download
 
-1. **Click** on the "Export" button located in the top menu.
+1. **Click on the "Export" Button** located in the top menu.
 
-      ![Export button](./images/export-button.png)
+   ![Export button](./images/export-button.png)
 
-      This button initiates the export process, allowing you to choose the format for your download.
+   This button initiates the export process, allowing you to choose the format for your download.
 
-2. **Select** "Save as PDF" from the dropdown menu.
+2. **Select "Save as PDF" from the Dropdown Menu**.
 
-      ![Select PDF](./images/file-type.png)
 
-      By selecting PDF, you ensure that your diagram retains its formatting and layout when shared or printed.
+    !!! note
+        You can choose any file format you prefer, as shown in the image below. The export settings may vary, but the process remains the same. In this tutorial, we are covering the steps for exporting as a PDF file.
 
-3. **Choose** your desired settings for the PDF export.
+    ![Select PDF](./images/file-type.png)
+
+    
+
+
+3. **Choose Your Desired Settings for the PDF Export**.
 
     !!! info
-        You will see a dialog box asking which part of the page you would like to export. You can choose to export all pages, the current page only, or a specific selection.
+        You will see a dialog box asking which part of the page you would like to export. You can choose to export all pages, the current page only, or a specific selection. **Note**: You must select the content you wish to export.
 
-      ![PDF settings](./images/export-setting.png)
+   ![PDF settings](./images/export-setting.png)
 
+4. **Click on the "Export" Button to Download the PDF**.
 
-4. **Click** on the "Export" button to download the PDF.
+    !!! danger
+        Ensure you click on the pop-up message to confirm the download. 
 
-    !!! success
-        Your diagram will be downloaded as a PDF file to your device. This file can now be shared with others or printed for physical use.
-
-      ![Download PDF](./images/downloading.gif)
-
-5. **Verify the Download**: Once the download is complete, **locate** the PDF file on your device and open it to ensure everything appears correctly.
-
+   ![Download PDF](./images/downloading.gif)
 
    ![Verify download](./images/verify-download.png)
 
+!!! success
+    Your diagram is now downloaded as a PDF file to your device. This file can now be shared with others or printed for physical use.
 
-!!! info
-    If you encounter any issues with the download or the appearance of the PDF, double-check your export settings and try the process again.
-
-By following these steps, you can easily save a professional-looking PDF copy of your diagram. This feature is essential for sharing your work with others or including it in reports and presentations.
+By following these steps, you can easily save a professional looking PDF copy of your diagram. This feature is essential for sharing your work with others or including it in reports and presentations.
