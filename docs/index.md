@@ -35,9 +35,7 @@ These instructions use the following typographic conventions:
 
 ## Admonitions
 
-Throughout the instructions in this guide, a variety of messages are included. The purpose of the messages is to convey additional information that would be helpful to follow the instructions.
-
-Some of the messages frequently seen in the instructions are presented in the following formats:
+Throughout the instructions in this guide, a variety of messages are included. The purpose of the messages is to convey additional information that would be helpful to follow the instructions. The types of messages in this guide are presented int he following formats:
 
 !!! success
     This green message with a green check mark indicates the successful result of following the instructions.
@@ -56,3 +54,6 @@ Some of the messages frequently seen in the instructions are presented in the fo
 
 !!! example
     This message provides examples to illustrate the instructions or concepts being discussed.
+
+!!! note
+    This dark blue message with a pencil icon inside a dark blue circle indicates advice that is worth noting to users as they follow the instructions. 
