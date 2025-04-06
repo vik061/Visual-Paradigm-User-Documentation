@@ -26,8 +26,8 @@ markdown_extensions:
 
 nav:
   - Introduction: index.md
-  - Creating new Diagram: Creating_new_diagram.md
-  - Creating shapes and lines: Creating_shapes_and_lines.md
+  - Creating New Diagram: Creating_new_diagram.md
+  - Creating Shapes and Lines: Creating_shapes_and_lines.md
   - Downloading PDF of Diagram: Downloading_PDF_of_diagram.md
   - Troubleshooting: Troubleshooting.md
   - Glossary: Glossary.md
