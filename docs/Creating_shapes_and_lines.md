@@ -6,23 +6,23 @@ In this section, we will guide you through the process of adding shapes and line
 
 1. **Click on the "Shapes" Icon** located on the left toolbar.
 
-   ![Shapes icon](./images/shapes-icon.png)
+    ![Shapes icon](./images/shapes-icon.png)
 
-   This icon opens a menu containing various shapes that you can use in your diagram, allowing for a diverse range of visual elements.
+    This icon opens a menu containing various shapes that you can use in your diagram, allowing for a diverse range of visual elements.
 
 2. **Select a Shape from the Menu**.
 
     !!! tip
         Explore different shapes to find the ones that best fit your diagram needs. Common shapes include rectangles for processes, circles for events, and arrows for directional flow, each serving distinct purposes in your diagram.
 
-   ![Select shape](./images/select-shape.png)
+    ![Select shape](./images/select-shape.png)
 
 3. **Drag the Selected Shape onto the Canvas**. You can drag multiple shapes by holding the **Ctrl** key while selecting.
 
-    !!! info
-        You can reposition the shape by clicking and dragging it to your desired location on the canvas. This flexibility allows you to arrange your diagram intuitively, ensuring a logical flow of information.
+!!! info
+    You can reposition the shape by clicking and dragging it to your desired location on the canvas. This flexibility allows you to arrange your diagram intuitively, ensuring a logical flow of information.
 
-   ![Drag shape](./images/drag-shape.gif)
+![Drag shape](./images/drag-shape.gif)
 
 4. **Customize the Shape** using the menu at the top to change its color, size, and style.
 
@@ -47,9 +47,9 @@ In this section, we will guide you through the process of adding shapes and line
 
 1. **Click on the "Line" Tool** from the left toolbar.
 
-   ![Line tool](./images/line-tool.png)
+    ![Line tool](./images/line-tool.png)
 
-   This tool allows you to create connections between different shapes, illustrating relationships or flows in your diagram, which is essential for conveying complex information clearly.
+    This tool allows you to create connections between different shapes, illustrating relationships or flows in your diagram, which is essential for conveying complex information clearly.
 
 2. **Select a Type of Line from the Options** that appear.
 
@@ -76,5 +76,7 @@ In this section, we will guide you through the process of adding shapes and line
 
     !!! tip
         Use the top menu to adjust the style, thickness, and direction of your lines. Customizing lines can enhance the clarity of your diagram and help convey the intended message more effectively, ensuring that your audience understands the relationships between elements.
+
+## Conclusion
 
 Now that you have added shapes and lines, you can proceed to customize them further or continue building your diagram. For instructions on how to save your work, this guide will show you the steps to [download a PDF of your diagram](https://vik061.github.io/Visual-Paradigm-User-Documentation/Downloading_PDF_of_diagram/).

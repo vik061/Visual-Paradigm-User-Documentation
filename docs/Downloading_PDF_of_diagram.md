@@ -6,9 +6,9 @@ In this section, we will guide you through the process of downloading your compl
 
 1. **Click on the "Export" Button** located in the top menu.
 
-   ![Export button](./images/export-button.png)
+    ![Export button](./images/export-button.png)
 
-   This button initiates the export process, allowing you to choose the format for your download.
+    This button initiates the export process, allowing you to choose the format for your download.
 
 2. **Select "Save as PDF" from the Dropdown Menu**.
 
@@ -26,7 +26,7 @@ In this section, we will guide you through the process of downloading your compl
     !!! info
         You will see a dialog box asking which part of the page you would like to export. You can choose to export all pages, the current page only, or a specific selection. **Note**: You must select the content you wish to export.
 
-   ![PDF settings](./images/export-setting.png)
+    ![PDF settings](./images/export-setting.png)
 
 4. **Click on the "Export" Button to Download the PDF**.
 
@@ -39,5 +39,7 @@ In this section, we will guide you through the process of downloading your compl
 
 !!! success
     Your diagram is now downloaded as a PDF file to your device. This file can now be shared with others or printed for physical use.
+
+## Conclusion
 
 By following these steps, you can easily save a professional looking PDF copy of your diagram. This feature is essential for sharing your work with others or including it in reports and presentations.
