@@ -10,7 +10,7 @@ In this section, we will guide you through the process of downloading your compl
 
     This button initiates the export process, allowing you to choose the format for your download.
 
-2. **Select "Save as PDF" from the Dropdown Menu**.
+2. **Select "Save as PDF"** from the Dropdown Menu.
 
 
     !!! note
@@ -21,25 +21,27 @@ In this section, we will guide you through the process of downloading your compl
     
 
 
-3. **Choose Your Desired Settings for the PDF Export**.
+3. **Choose Your Desired Settings** for the PDF Export.
 
     !!! info
-        You will see a dialog box asking which part of the page you would like to export. You can choose to export all pages, the current page only, or a specific selection. **Note**: You must select the content you wish to export.
+        You will see a dialog box asking which part of the page you would like to export. You can **choose to export all pages, the current page only**, or **a specific selection**.
+    !!! note
+        You must **select the content** you wish to export.
 
     ![PDF settings](./images/export-setting.png)
 
-4. **Click on the "Export" Button to Download the PDF**.
+4. **Click on the "Export" Button** to download the PDF.
 
     !!! danger
         Ensure you click on the pop-up message to confirm the download. 
 
-   ![Download PDF](./images/downloading.gif)
+    ![Download PDF](./images/downloading.gif)
 
-   ![Verify download](./images/verify-download.png)
+    ![Verify download](./images/verify-download.png)
 
 !!! success
     Your diagram is now downloaded as a PDF file to your device. This file can now be shared with others or printed for physical use.
 
 ## Conclusion
 
-By following these steps, you can easily save a professional looking PDF copy of your diagram. This feature is essential for sharing your work with others or including it in reports and presentations.
+By following these steps, you can easily save a professional-looking PDF copy of your diagram. This feature is essential for sharing your work with others or including it in reports and presentations.

@@ -17,17 +17,19 @@ In this section, we will guide you through the process of adding shapes and line
 
     ![Select shape](./images/select-shape.png)
 
-3. **Drag the Selected Shape onto the Canvas**. You can drag multiple shapes by holding the **Ctrl** key while selecting.
+3. **Drag the Selected Shape onto the Canvas**. 
 
-!!! info
-    You can reposition the shape by clicking and dragging it to your desired location on the canvas. This flexibility allows you to arrange your diagram intuitively, ensuring a logical flow of information.
+    You can drag multiple shapes by holding the **Ctrl** key while selecting.
 
-![Drag shape](./images/drag-shape.gif)
+    !!! info
+        You can reposition the shape by clicking and dragging it to your desired location on the canvas. This flexibility allows you to arrange your diagram intuitively, ensuring a logical flow of information.
 
-4. **Customize the Shape** using the menu at the top to change its color, size, and style.
+    ![Drag shape](./images/drag-shape.gif)
+
+4. **Customize the Shape** using the menu at the top to change its colour, size, and style.
 
     !!! note
-        Use the top menu to adjust the color and style of your shapes. Customizing shapes not only enhances visual appeal but also helps differentiate between various elements, making your diagram easier to interpret.
+        Use the top menu to adjust the colour and style of your shapes. Customizing shapes not only enhances visual appeal, but also helps differentiate between various elements to make your diagram easier to interpret.
 
 ### Accessing More Icons and Shapes
 
@@ -65,14 +67,16 @@ In this section, we will guide you through the process of adding shapes and line
     !!! success
         A line will appear connecting the two shapes, indicating a successful connection. This method is ideal for quickly linking shapes together, enhancing the flow of your diagram.
 
-4. **Option 2**: **Click on an Existing Shape** on the canvas. A set of arrows will automatically appear around the shape. **Click on these Arrows** to easily connect shapes.
+4. **Option 2**: **Click on an Existing Shape** on the canvas. A set of arrows will automatically appear around the shape.
+
+5. **Click on these Arrows** to easily connect shapes.
 
     !!! info
-        This method provides a quick way to establish connections without needing to select the line tool each time, streamlining your workflow. Simply **click** on the arrows to create connections between shapes effortlessly.
+        This method provides a quick way to establish connections without needing to select the line tool each time, streamlining your workflow. Simply **click on the arrows** to create connections between shapes effortlessly.
 
-   ![Connect shapes](./images/connect-shapes.gif)
+    ![Connect shapes](./images/connect-shapes.gif)
 
-5. **Customize the Line** using the menu at the top to change its appearance.
+6. **Customize the Line** using the menu at the top to change its appearance.
 
     !!! tip
         Use the top menu to adjust the style, thickness, and direction of your lines. Customizing lines can enhance the clarity of your diagram and help convey the intended message more effectively, ensuring that your audience understands the relationships between elements.

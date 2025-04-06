@@ -36,7 +36,7 @@ In this section, we will guide you through the process of creating a new diagram
 4. **Keep the default choice** for the Edition, which should have the blue circle next to **"Use the Free Edition"** option. 
 
     !!! warning
-        If you see the blue circle next to the "Enjoy 30-Day trial of the Combo Edition", **choose** the "Use the Free Edition" option.
+        If you see the blue circle next to the "Enjoy 30-Day trial of the Combo Edition", **choose the "Use the Free Edition"** option.
 
     ![Click profile icon and sign up](./images/enter-email-address.png)
 
@@ -46,7 +46,7 @@ In this section, we will guide you through the process of creating a new diagram
         You may have to complete a simple human verification test to prove that you are a human user.
 
     !!! success
-        You will be redirected to this page prompting you to **check** your email account and **click** on the link from Visual Paradigm Online.
+        You will be redirected to this page prompting you to **check your email account** and **click on "Visit your Visual Paradigm workspace" link** from Visual Paradigm Online.
 
         ![Redirect email verification prompt](./images/redirect-email-verification-prompt.png)
 
