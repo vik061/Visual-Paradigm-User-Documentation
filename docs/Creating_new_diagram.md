@@ -4,7 +4,7 @@ In this section, we will guide you through the process of creating a new diagram
 
 1. **Go** to the Visual Paradigm Online website.
 
-    !!! danger
+    !!! warning
 
         The website’s URL is [https://online.visual-paradigm.com](https://online.visual-paradigm.com) and displays the “Get started for Free” button on the front page. You do *not* have to download any files or programs for this guide.
 
@@ -78,9 +78,9 @@ In this section, we will guide you through the process of creating a new diagram
 
     ![Login page](./images/login-page.png)
 
-    You will be redirected back to the home page of Visual Paradigm Online.
+    You will be redirected back to the home page of Visual Paradigm Online. Please continue following the instructions in Option 2 starting from Step 1.
 
-## Option 2: Without creating an account (or continuing the steps if you started from Option 1)
+## Option 2: Without creating an account
 
 1. **Click** on Diagram, which can be found in the horizontal bar on the left side.
 
@@ -108,4 +108,6 @@ In this section, we will guide you through the process of creating a new diagram
 
     ![Blank template Untitled](./images/blank-template-untitled.png)
 
-    Now that you have a blank template, this guide will show you [how to add shapes and lines to make a new diagram](https://vik061.github.io/Visual-Paradigm-User-Documentation/Creating_shapes_and_lines/).
+## Conclusion
+
+Now that you have a blank template, this guide will show you [how to add shapes and lines to make a new diagram](https://vik061.github.io/Visual-Paradigm-User-Documentation/Creating_shapes_and_lines/).
